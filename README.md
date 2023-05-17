@@ -22,14 +22,19 @@ The Handwriting Recognition project with OCR tool represents a significant advan
 **#SCREENSHOTS**
 **Original Image:**
 ![image1](https://github.com/SUBHAJIT23032001/HANDWRITING_RECOGNITION/assets/109050396/0852f1be-24fa-4d98-9b10-11a380635da9)
+
 **After Recognition:**
 ![image1output](https://github.com/SUBHAJIT23032001/HANDWRITING_RECOGNITION/assets/109050396/855c9118-e5d6-40b3-9854-59edee4995de)
+
 **Original Image:**
 ![image2](https://github.com/SUBHAJIT23032001/HANDWRITING_RECOGNITION/assets/109050396/34a857f6-4256-4d43-9e1b-917200f963c8)
+
 **After Recognition:**
 ![image2output](https://github.com/SUBHAJIT23032001/HANDWRITING_RECOGNITION/assets/109050396/370af2c3-d913-428b-9a57-472ce03cd4b3)
+
 **Original Image:**
 ![image4](https://github.com/SUBHAJIT23032001/HANDWRITING_RECOGNITION/assets/109050396/d4fa19dc-2914-4c1b-9ea2-95177f206353)
+
 **After Recognition:**
 ![image4output](https://github.com/SUBHAJIT23032001/HANDWRITING_RECOGNITION/assets/109050396/5be38c5b-e62b-442b-914a-8c1a532b0c46)
 
