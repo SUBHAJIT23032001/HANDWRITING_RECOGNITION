@@ -18,10 +18,10 @@ Ongoing research and development efforts are focused on refining the project's p
 The fusion of the MNIST dataset, CNN algorithm, and OCR tool creates a powerful solution for handwritten character recognition and transcription. The project showcases the potential of machine learning and OCR technologies in unlocking valuable insights from handwritten documents, transforming them into accessible and searchable digital assets.
 
 The Handwriting Recognition project with OCR tool represents a significant advancement in digitizing and interpreting handwritten text. Its impact extends across industries and disciplines, enabling efficient data management, enhancing research capabilities, and paving the way for new possibilities in the realm of handwritten document analysis.
-===
-===
-<font size=”7”>**SCREENSHOTS**</font>
 
+<font size=”7”>**SCREENSHOTS**</font>
+===
+===
 ![image1](https://github.com/SUBHAJIT23032001/HANDWRITING_RECOGNITION/assets/109050396/0852f1be-24fa-4d98-9b10-11a380635da9)
 
 
