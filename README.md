@@ -22,6 +22,6 @@ The Handwriting Recognition project with OCR tool represents a significant advan
 **#SCREENSHOTS**
 
 
-*****MADE BY SUBHAJIT PATI**
+*****MADE BY SUBHAJIT PATI***
 
 
